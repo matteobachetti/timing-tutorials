@@ -2,6 +2,12 @@
 
 This repository contains tutorials for X-ray timing analysis, focusing on different types of astronomical sources and analysis techniques.
 
+Different versions of these tutorials were done at 
++ [ASI School on IXPE data analysis for General Observers at ASI headquarters, Rome, February 20-23 2024](https://www.asi.it/formazione_esterna/alta-formazione/asi-school-on-ixpe-data-analysis-for-general-observers/)
++ [NICER-IXPE workshop July 29 to August 1 2024 in Washington, DC](https://heasarc.gsfc.nasa.gov/docs/ixpe/analysis/workshop/joint2024.html)
++ ACME tutorial on Spectral Timing, Toulouse, November 13th, 2025
++ [ASTRAL-X X-ray astronomy school, La Plata, Argentina, 1-12 December 2025](https://congresos.unlp.edu.ar/astralx/)
+
 ## Directory Structure
 
 ### `SlowPulsar`
